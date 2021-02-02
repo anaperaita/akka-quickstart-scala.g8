@@ -16,7 +16,7 @@ Prerequisites:
 
 Open a console and run the following command to apply this template:
  ```
-sbt -Dsbt.version=1.3.6 new akka/akka-quickstart-scala.g8
+sbt new akka/akka-quickstart-scala.g8
  ```
 
 This template will prompt for the name of the project. Press `Enter` if the default values suit you.
